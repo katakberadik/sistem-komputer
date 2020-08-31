@@ -112,9 +112,9 @@
       <td>No</td>
       <td>Unit Kompetensi</td>
       <td>Topik</td>
-      <td>Perkiraan waktu Jam Pelatihan (JP)</td>
+      <td>Ini Kolom 4 (JP)</td>
       <td>Ini Kolom 5</td>
-      <td>Ini Kolom 6</td>
+      <td>Perkiraan waktu Jam Pelatihan</td>
       <td>Ini Kolom 7</td>
     </tr>
         <tr>
