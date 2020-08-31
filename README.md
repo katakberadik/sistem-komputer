@@ -113,17 +113,17 @@
       <th rowspan="2">Unit Kompetensi</td>
       <th colspan="2">Topik</td>
       <!-- <td>Ini Kolom 4</td> --!>
-      <td>Ini Kolom 5</td>
-      <td>Perkiraan waktu Jam Pelatihan (JP)</td>
-      <td>Ini Kolom 7</td>
+      <th colspan="3">Perkiraan waktu Jam Pelatihan (JP)</td>
+      <!-- <td>Ini Kolom 6</td> --!>
+      <!-- <td>Ini Kolom 7</td> --!>
     </tr>
         <tr>
       <!-- <td>Ini Kolom 1</td> --!>
       <!-- <td>Ini Kolom 2</td> --!>
-      <td>Kode Materi Topik</td>
-      <td>Materi Topik</td>
-      <td>Pengetahuan</td>
-      <td>Keterampilan</td>
-      <td>Jumlah</td>
+      <th>Kode Materi Topik</td>
+      <th>Materi Topik</td>
+      <th>Pengetahuan</td>
+      <thKeterampilan</td>
+      <th>Jumlah</td>
     </tr>
 
