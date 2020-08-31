@@ -126,4 +126,13 @@
       <th>Keterampilan</td>
       <th>Jumlah</td>
     </tr>
-
+<tbody>
+    <tr>
+        <td rowspan="3">1</td>
+        <td rowspan="3"><strong>Ekosistem JavaScript</strong></td>
+        <td><strong>ke.js.01.002.01.1</strong></td>
+        <td><strong>Sejarah</strong></td>
+        <td rowspan="3">2</td>
+        <td rowspan="3">0</td>
+        <td rowspan="3">2</td>
+    </tr>
