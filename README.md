@@ -136,3 +136,11 @@
         <td rowspan="3">0</td>
         <td rowspan="3">2</td>
     </tr>
+    <tr>
+        <td><strong>ke.js.01.002.02.1</strong></td>
+        <td><strong>Tentang</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.002.03.1</strong></td>
+        <td><strong>Roadmap</strong></td>
+    </tr>
