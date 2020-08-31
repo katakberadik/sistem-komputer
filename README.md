@@ -109,7 +109,7 @@
 <table>
   <thead>
     <tr>
-      <td>No</td>
+      <td rowspan="2">No</td>
       <td>Unit Kompetensi</td>
       <td>Topik</td>
       <td>Ini Kolom 4</td>
@@ -118,7 +118,7 @@
       <td>Ini Kolom 7</td>
     </tr>
         <tr>
-      <td>Ini Kolom 1</td>
+      <!--<td>Ini Kolom 1</td> --!>
       <td>Ini Kolom 2</td>
       <td>Kode Materi Topik</td>
       <td>Materi Topik</td>
