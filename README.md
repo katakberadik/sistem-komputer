@@ -106,4 +106,24 @@
 <a href="#daftar-isi" title="^ top">^ top</a>
 
 <hr>
+<table>
+  <thead>
+    <tr>
+      <td>Ini Kolom 1</td>
+      <td>Ini Kolom 2</td>
+      <td>Ini Kolom 3</td>
+      <td>Ini Kolom 4</td>
+      <td>Ini Kolom 5</td>
+      <td>Ini Kolom 6</td>
+      <td>Ini Kolom 7</td>
+    </tr>
+        <tr>
+      <td>Ini Kolom 1</td>
+      <td>Ini Kolom 2</td>
+      <td>Ini Kolom 3</td>
+      <td>Ini Kolom 4</td>
+      <td>Ini Kolom 5</td>
+      <td>Ini Kolom 6</td>
+      <td>Ini Kolom 7</td>
+    </tr>
 
