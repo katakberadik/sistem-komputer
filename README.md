@@ -123,7 +123,7 @@
       <th>Kode Materi Topik</td>
       <th>Materi Topik</td>
       <th>Pengetahuan</td>
-      <thKeterampilan</td>
+      <th>Keterampilan</td>
       <th>Jumlah</td>
     </tr>
 
