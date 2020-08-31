@@ -111,8 +111,8 @@
     <tr>
       <td rowspan="2">No</td>
       <td rowspan="2">Unit Kompetensi</td>
-      <td>Topik</td>
-      <td>Ini Kolom 4</td>
+      <td colspan="2">Topik</td>
+      <!-- <td>Ini Kolom 4</td> --!>
       <td>Ini Kolom 5</td>
       <td>Perkiraan waktu Jam Pelatihan (JP)</td>
       <td>Ini Kolom 7</td>
