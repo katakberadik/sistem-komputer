@@ -109,10 +109,10 @@
 <table>
   <thead>
     <tr>
-      <td>Ini Kolom 1</td>
-      <td>Ini Kolom 2</td>
-      <td>Ini Kolom 3</td>
-      <td>Ini Kolom 4</td>
+      <td>No</td>
+      <td>Unit Kompetensi</td>
+      <td>Topik</td>
+      <td>Perkiraan waktu Jam Pelatihan (JP)</td>
       <td>Ini Kolom 5</td>
       <td>Ini Kolom 6</td>
       <td>Ini Kolom 7</td>
@@ -120,10 +120,10 @@
         <tr>
       <td>Ini Kolom 1</td>
       <td>Ini Kolom 2</td>
-      <td>Ini Kolom 3</td>
-      <td>Ini Kolom 4</td>
-      <td>Ini Kolom 5</td>
-      <td>Ini Kolom 6</td>
-      <td>Ini Kolom 7</td>
+      <td>Kode Materi Topik</td>
+      <td>Materi Topik</td>
+      <td>Pengetahuan</td>
+      <td>Keterampilan</td>
+      <td>Jumlah</td>
     </tr>
 
