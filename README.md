@@ -4,9 +4,9 @@
 
 <ol>
     <li><a href="ikhtisar" title="Ikhtisaar"> Ikhtisar </li>
-    <li><a href="silabus" title="silabus"> Ikhtisar </li>
-    <li><a href="materi" title="Materi"> Ikhtisar </li>
-    <li><a href="refrensi" title="Refrensi"> Ikhtisar </li>
-    <li><a href="sertifikasi" title="Sertifikasi"> Ikhtisar </li> 
+    <li><a href="silabus" title="silabus"> Silabus </li>
+    <li><a href="materi" title="Materi"> Materi </li>
+    <li><a href="refrensi" title="Refrensi"> Refrensi </li>
+    <li><a href="sertifikasi" title="Sertifikasi"> Sertifikasi </li> 
 </ol>
 <hr>
