@@ -1,4 +1,4 @@
-<h1>JavaScript Programmer</h1>
+<h1>Sistem Komputerr</h1>
 
 <h2 id="daftar-isi">Daftar Isi</h2>
 
@@ -112,9 +112,9 @@
       <td>No</td>
       <td>Unit Kompetensi</td>
       <td>Topik</td>
-      <td>Ini Kolom 4 (JP)</td>
+      <td>Ini Kolom 4</td>
       <td>Ini Kolom 5</td>
-      <td>Perkiraan waktu Jam Pelatihan</td>
+      <td>Perkiraan waktu Jam Pelatihan (JP)</td>
       <td>Ini Kolom 7</td>
     </tr>
         <tr>
