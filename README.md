@@ -7,6 +7,18 @@
     <li><a href="silabus" title="silabus"> Silabus </li>
     <li><a href="materi" title="Materi"> Materi </li>
     <li><a href="refrensi" title="Refrensi"> Refrensi </li>
-    <li><a href="sertifikasi" title="Sertifikasi"> Sertifikasi </li> 
+    <li><a href="sertifikasi" title="Sertifikasi"> Sertifikasi </li>
 </ol>
 <hr>
+
+</body>
+	<table>	
+		<tbody>
+		<tr>
+			<td><strong>Nama Pelajaran Yang diajarkan</strong>
+			<td><strong>Sistem Komputer</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Pelajaran </strong>
+			<td><strong>Sistem Komputer</strong></td>
+		</tr>
