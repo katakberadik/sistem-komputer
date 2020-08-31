@@ -109,9 +109,9 @@
 <table>
   <thead>
     <tr>
-      <td rowspan="2">No</td>
-      <td rowspan="2">Unit Kompetensi</td>
-      <td colspan="2">Topik</td>
+      <th rowspan="2">No</td>
+      <th rowspan="2">Unit Kompetensi</td>
+      <th colspan="2">Topik</td>
       <!-- <td>Ini Kolom 4</td> --!>
       <td>Ini Kolom 5</td>
       <td>Perkiraan waktu Jam Pelatihan (JP)</td>
